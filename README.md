@@ -1,4 +1,4 @@
-# worker.templates.do - Templates
+# Objects.do - Durable Object Management
 
 ## Getting Started
 
